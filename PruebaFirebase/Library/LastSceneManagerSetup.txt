@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Firebase/Sample/Auth/AuthMainScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

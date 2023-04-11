@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "955002645493",
+    "project_id": "xr-test-79623",
+    "storage_bucket": "xr-test-79623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955002645493:android:1d0ad6cfc67aa4b6220ebc",
+        "android_client_info": {
+          "package_name": "com.Google.FirebaseAuthUnityTestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955002645493-mbs490h0c3hqeatml7rtjermc03agpoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUpJf47DFDij-_HqZBAplVi_lTCkEY2LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955002645493-mbs490h0c3hqeatml7rtjermc03agpoa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955002645493-popjkckaek7b38s74lnqpq86s71p1uok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.FirebaseUnityAuthTestApp.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
